@@ -1,45 +1,26 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# PD_LJ
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
-## Alunos
-|Matrícula | Aluno |
+## Estudantes
+| Matrícula | Estudante |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0146251	  |  João Lucas Zarbiélli |
+| 19/0046945   |  Leonardo Michalski Miranda |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Gif do App
+![App Gif](assets/app_gif.gif)
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+## Vídeo (pt-br, [download link](https://raw.githubusercontent.com/projeto-de-algoritmos/PD_LJ/main/assets/app_video.mp4))
+[![](assets/app_video_splash_screen.png)](https://youtu.tbe/RJ-OouSKQ2Y)
+
+## Como rodar 
+**Linguagem**: <br>
+**Framework**: <br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+## Como usar
