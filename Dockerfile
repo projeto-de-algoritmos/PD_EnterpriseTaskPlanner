@@ -9,3 +9,5 @@ COPY requirements.txt /tmp/
 RUN pip install --default-timeout=15000 --requirement /tmp/requirements.txt && \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
+
+COPY app.ipynb .
