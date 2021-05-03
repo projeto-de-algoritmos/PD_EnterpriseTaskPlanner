@@ -1,4 +1,4 @@
-# PD_LJ
+# PD_EnterpriseTaskPlanner
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
@@ -6,11 +6,11 @@
 ## Estudantes
 | Matrícula | Estudante |
 | -- | -- |
-| 17/0146251	  |  João Lucas Zarbiélli |
+| 17/0146251   |  João Lucas Zarbiélli |
 | 19/0046945   |  Leonardo Michalski Miranda |
 
 ## Sobre 
-The application is a planner that proposes to decide which task should be done first according to the variables **estimated amount of time** and **revenue**.
+The application is a enterprise task planner that proposes to decide which task should be done first according to the variables **estimated amount of time** and **revenue**.
 
 The data was generated randomly by the pair and is organized in a CSV with the task name, estimated amount of time and revenue columns
 ## Gif do App
