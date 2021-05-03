@@ -10,9 +10,8 @@
 | 19/0046945   |  Leonardo Michalski Miranda |
 
 ## Sobre 
-The application is a enterprise task planner that proposes to decide which task should be done first according to the variables **estimated amount of time** and **revenue**.
+App para decidir agendar a realização de tarefas por uma empresa levando em conta o lucro que será gerado e o tempo estimado para completar tal tarefa.
 
-The data was generated randomly by the pair and is organized in a CSV with the task name, estimated amount of time and revenue columns
 ## Gif do App
 ![App Gif](assets/app_gif.gif)
 
@@ -21,7 +20,5 @@ The data was generated randomly by the pair and is organized in a CSV with the t
 
 ## Como rodar 
 **Linguagem**: Python. <br>
-**Frameworks**: Jupyter Voilà; BinderHub. <br>
-Run the [app](https://mybinder.org/v2/gh/projeto-de-algoritmos/PD_LJ/main?urlpath=%2Fvoila%2Frender%2Fapp.ipynb) or the [notebook](https://mybinder.org/v2/gh/projeto-de-algoritmos/PD_LJ/main?filepath=app.ipynb) using the BinderHub server.
-
-To start the process, it is necessary to provide a valid CSV, there is one available in the repository in the mock_data folder. Download the file and insert it through the app interface. After that you just need to press the button **RUN**. The results will be displayed in the app.
+**Framework**: Jupyter. <br>
+Rode o [notebook](http://colab.research.google.com/github/projeto-de-algoritmos/PD_EnterpriseTaskPlanner/blob/main/app.ipynb) usando um servidor do Google Colab. Com o app aberto, basta dar o upload de um CSV no mesmo formato do CSV que está [neste link](https://github.com/projeto-de-algoritmos/PD_EnterpriseTaskPlanner/blob/main/mock_data/table_01.csv).
