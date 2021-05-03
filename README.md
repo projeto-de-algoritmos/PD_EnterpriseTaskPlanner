@@ -10,8 +10,9 @@
 | 19/0046945   |  Leonardo Michalski Miranda |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+The application is a planner that proposes to decide which task should be done first according to the variables **estimated amount of time** and **revenue**.
 
+The data was generated randomly by the pair and is organized in a CSV with the task name, estimated amount of time and revenue columns
 ## Gif do App
 ![App Gif](assets/app_gif.gif)
 
@@ -21,5 +22,6 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ## Como rodar 
 **Linguagem**: Python. <br>
 **Frameworks**: Jupyter Voilà; BinderHub. <br>
-Rode o [app](https://mybinder.org/v2/gh/projeto-de-algoritmos/PD_LJ/main?urlpath=%2Fvoila%2Frender%2Fapp.ipynb) ou o [notebook](https://mybinder.org/v2/gh/projeto-de-algoritmos/PD_LJ/main?filepath=app.ipynb) usando o servidor do BinderHub.
+Run the [app](https://mybinder.org/v2/gh/projeto-de-algoritmos/PD_LJ/main?urlpath=%2Fvoila%2Frender%2Fapp.ipynb) or the [notebook](https://mybinder.org/v2/gh/projeto-de-algoritmos/PD_LJ/main?filepath=app.ipynb) using the BinderHub server.
 
+To start the process, it is necessary to provide a valid CSV, there is one available in the repository in the mock_data folder. Download the file and insert it through the app interface. After that you just need to press the button **RUN**. The results will be displayed in the app.
