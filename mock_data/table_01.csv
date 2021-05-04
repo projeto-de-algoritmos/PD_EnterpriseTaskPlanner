@@ -1,6 +1,6 @@
-task name,estimated amount of time,revenue
-Task 1,10,2000
-Task 2,5,1000
-Task 3,90,25000
-Task 4,2,250
-Task 5,75,12000
+task name,start time,finish time,revenue
+Task 1,3/8/2021,3/11/2021,2000
+Task 2,3/7/2021,3/12/2021,1000
+Task 3,3/11/2021,3/17/2021,25000
+Task 4,3/15/2021,3/16/2021,250
+Task 5,3/9/2021,3/11/2021,12000
